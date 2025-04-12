@@ -4,6 +4,10 @@ This is a base kit for a [Next.js](https://nextjs.org/) project. It is based on 
 
 ## Features
 
+- **Theme**:
+
+  - Semantic tailwind color schemes (ex. color-primary, color-success)
+
 - **ESLint/Prettier**:
 
   - Basic recommended configuration
